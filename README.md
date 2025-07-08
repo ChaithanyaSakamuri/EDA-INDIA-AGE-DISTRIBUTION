@@ -45,6 +45,6 @@ Add time-series analysis
 
 Incorporate gender breakdown
 
-The complete code and visualization are available on [GitHub/LinkToYourRepo]. Would love to hear thoughts on other demographic factors worth analyzing!
+The complete code and visualization are available on [https://github.com/ChaithanyaSakamuri/EDA-INDIA-AGE-DISTRIBUTION]. Would love to hear thoughts on other demographic factors worth analyzing!
 
 #DataVisualization #Python #Demographics #India #DataScience #PopulationAnalysis
